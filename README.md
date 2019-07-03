@@ -13,4 +13,4 @@ requests
 
 scikit-image
 
-if it doesn't work please ping me in the Mario Royale discord server.
+if it doesn't work please ping me (@minus) in the Mario Royale discord server.
