@@ -1,0 +1,1 @@
+{"type": "game", "resource": [{"id": "map", "src": "img/game/smb_map.png"}, {"id": "obj", "src": "img/game/smb_obj.png"}], "initial": 0, "world": [{"id": 0, "name": "World 1", "initial": 0, "zone": [{"id": 0, "initial": 196608, "color": "#6B8CFF", "music": "music/main0.mp3", "data": [[0, 1], [2, 3]], "obj": [], "warp": []}]}]}
