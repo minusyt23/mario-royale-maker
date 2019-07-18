@@ -1,1 +1,12 @@
 py version 
+
+
+requirements : PYTHON 3.5 OR HIGHER (DO THAT)
+
+  modules:
+    wxPython
+    requests
+    numpy
+    pandas
+  
+done :P
